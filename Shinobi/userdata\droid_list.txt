@@ -1,0 +1,2 @@
+MELLE;NARUTO;1000.0;3000.0;5.0;KONOHA;5.0;Increase armor for several team Shinobi;
+SEALS;SASUKE;100.0;30.0;10.0;OROCHIMARU;100.0;Increase damage for one team Shinobi;
