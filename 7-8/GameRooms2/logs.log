@@ -1,0 +1,1379 @@
+
+[WARN] 2022-10-27 21:52:03.552 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-10-27 21:52:24.930 [main] GameRoom - Неправильний вік!
+[WARN] 2022-10-27 21:52:48.470 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-10-27 21:56:47.593 [main] GameRoom - Порожнє імя!
+[WARN] 2022-10-27 21:56:47.602 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-10-27 21:56:47.606 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-10-27 21:56:47.609 [main] GameRoom - Неправильний вік!
+[WARN] 2022-10-27 21:57:41.207 [main] GameRoom - Порожнє імя!
+[WARN] 2022-10-27 21:57:41.215 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-10-27 21:57:41.220 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-10-27 21:57:41.222 [main] GameRoom - Неправильний вік!
+[INFO] 2022-10-27 21:57:42.337 [main] GameRoomService - Створення кімнати
+[INFO] 2022-10-27 21:57:42.337 [main] GameRoomService - Загальні дані
+[INFO] 2022-10-27 21:57:42.397 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-10-27 21:57:42.403 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-10-27 21:57:42.403 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-10-27 21:57:43.406 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-10-27 21:57:43.406 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-10-27 21:57:43.410 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-10-27 21:57:43.411 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-10-27 21:57:44.129 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-10-27 21:57:44.133 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-10-27 21:57:44.133 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-10-27 21:57:44.822 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-10-27 21:57:44.823 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-10-27 21:57:45.384 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='TEXT', description='TEXT', totalPrice='230.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-10-27 21:57:45.392 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-10-27 21:57:45.392 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='sameName', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[WARN] 2022-10-27 21:57:45.393 [main] GameRoomService - Неправильне імя
+[INFO] 2022-10-27 21:57:45.396 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-10-27 21:57:45.396 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-10-27 21:57:46.009 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-10-27 21:57:46.014 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-10-27 21:57:46.014 [main] GameRoomService - Перегляд даних за айді 1
+[ERROR] 2022-10-27 21:57:46.583 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-10-27 21:57:47.154 [main] FilterService - Фільтруємо за ціною вище ніж = 100.0
+[INFO] 2022-10-27 21:57:47.158 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-10-27 21:57:47.160 [main] FilterService - Фільтруємо за доступним віком = [ADULT]
+[INFO] 2022-10-27 21:57:47.163 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-10-27 21:57:47.169 [main] FilterService - Фільтруємо за розміром = SMALL
+[INFO] 2022-10-27 21:57:47.171 [main] FilterService - Фільтруємо за доступним віком = [TEEN]
+[INFO] 2022-10-27 21:57:47.174 [main] FilterService - Фільтруємо за ціною нижче ніж = 200.0
+[INFO] 2022-10-27 21:57:47.177 [main] FilterService - Фільтруємо за розміром = MEDIUM
+[INFO] 2022-10-27 21:57:47.180 [main] FilterService - Фільтруємо за типом = DOLL
+[INFO] 2022-10-27 21:57:47.183 [main] FilterService - Фільтруємо за розміром = BIG
+[INFO] 2022-10-27 21:57:47.186 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-10-27 21:57:47.195 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-10-27 21:57:47.200 [main] ToyService - Редагування іграшки
+[INFO] 2022-10-27 21:57:47.205 [main] ToyService - Нова назва іграшки
+[INFO] 2022-10-27 21:57:47.212 [main] ToyService - Видалення іграшки
+[INFO] 2022-10-27 21:57:47.218 [main] ToyService - Редагування іграшки
+[INFO] 2022-10-27 21:57:47.220 [main] ToyService - Нова назва іграшки
+[INFO] 2022-10-27 21:57:47.226 [main] ToyService - Редагування іграшки
+[INFO] 2022-10-27 21:57:47.226 [main] ToyService - Нова назва іграшки
+[INFO] 2022-10-27 21:57:47.230 [main] ToyService - Видалення за ціною
+[INFO] 2022-10-27 21:57:47.233 [main] ToyService - Видалення за ціною
+[INFO] 2022-10-27 21:57:47.235 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-10-27 21:57:47.240 [main] ToyService - Створення іграшки
+[INFO] 2022-10-27 21:57:47.240 [main] ToyService - Створення машинки
+[ERROR] 2022-10-27 21:57:47.243 [main] ToyService - Неіснує такого обєкту
+[INFO] 2022-10-27 21:57:47.937 [main] ToyService - Редагування іграшки
+[INFO] 2022-10-27 21:57:47.939 [main] ToyService - Нова назва іграшки
+[INFO] 2022-10-27 22:01:30.874 [main] ToyService - Створення іграшки
+[INFO] 2022-10-27 22:01:30.882 [main] ToyService - Створення ляльки
+[INFO] 2022-10-27 22:03:57.738 [main] ToyService - Створення іграшки
+[INFO] 2022-10-27 22:03:57.744 [main] ToyService - Створення кубиків
+[INFO] 2022-10-27 22:04:40.381 [main] ToyService - Створення іграшки
+[INFO] 2022-10-27 22:04:40.387 [main] ToyService - Створення машинки
+[INFO] 2022-10-27 22:04:53.215 [main] ToyService - Створення іграшки
+[INFO] 2022-10-27 22:04:53.222 [main] ToyService - Створення музики
+[WARN] 2022-10-27 22:06:15.840 [main] GameRoom - Порожнє імя!
+[WARN] 2022-10-27 22:06:15.847 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-10-27 22:06:15.850 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-10-27 22:06:15.852 [main] GameRoom - Неправильний вік!
+[INFO] 2022-10-27 22:06:16.864 [main] GameRoomService - Створення кімнати
+[INFO] 2022-10-27 22:06:16.864 [main] GameRoomService - Загальні дані
+[INFO] 2022-10-27 22:06:16.916 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-10-27 22:06:16.922 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-10-27 22:06:16.922 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-10-27 22:06:17.757 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-10-27 22:06:17.757 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-10-27 22:06:17.762 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-10-27 22:06:17.762 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-10-27 22:06:18.345 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-10-27 22:06:18.350 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-10-27 22:06:18.351 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-10-27 22:06:18.974 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-10-27 22:06:18.975 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-10-27 22:06:19.593 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='TEXT', description='TEXT', totalPrice='230.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-10-27 22:06:19.601 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-10-27 22:06:19.602 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='sameName', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[WARN] 2022-10-27 22:06:19.602 [main] GameRoomService - Неправильне імя
+[INFO] 2022-10-27 22:06:19.605 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-10-27 22:06:19.606 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-10-27 22:06:20.189 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-10-27 22:06:20.193 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-10-27 22:06:20.193 [main] GameRoomService - Перегляд даних за айді 1
+[ERROR] 2022-10-27 22:06:20.763 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-10-27 22:06:21.363 [main] FilterService - Фільтруємо за ціною вище ніж = 100.0
+[INFO] 2022-10-27 22:06:21.367 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-10-27 22:06:21.369 [main] FilterService - Фільтруємо за доступним віком = [ADULT]
+[INFO] 2022-10-27 22:06:21.372 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-10-27 22:06:21.377 [main] FilterService - Фільтруємо за розміром = SMALL
+[INFO] 2022-10-27 22:06:21.380 [main] FilterService - Фільтруємо за доступним віком = [TEEN]
+[INFO] 2022-10-27 22:06:21.383 [main] FilterService - Фільтруємо за ціною нижче ніж = 200.0
+[INFO] 2022-10-27 22:06:21.386 [main] FilterService - Фільтруємо за розміром = MEDIUM
+[INFO] 2022-10-27 22:06:21.389 [main] FilterService - Фільтруємо за типом = DOLL
+[INFO] 2022-10-27 22:06:21.392 [main] FilterService - Фільтруємо за розміром = BIG
+[INFO] 2022-10-27 22:06:21.395 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-10-27 22:06:21.405 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-10-27 22:06:21.412 [main] ToyService - Редагування іграшки
+[INFO] 2022-10-27 22:06:21.418 [main] ToyService - Нова назва іграшки
+[INFO] 2022-10-27 22:06:21.424 [main] ToyService - Видалення іграшки
+[INFO] 2022-10-27 22:06:21.430 [main] ToyService - Створення іграшки
+[INFO] 2022-10-27 22:06:21.431 [main] ToyService - Створення ляльки
+[INFO] 2022-10-27 22:06:21.436 [main] ToyService - Редагування іграшки
+[INFO] 2022-10-27 22:06:21.438 [main] ToyService - Нова назва іграшки
+[INFO] 2022-10-27 22:06:21.444 [main] ToyService - Редагування іграшки
+[INFO] 2022-10-27 22:06:21.445 [main] ToyService - Нова назва іграшки
+[INFO] 2022-10-27 22:06:21.449 [main] ToyService - Видалення за ціною
+[INFO] 2022-10-27 22:06:21.457 [main] ToyService - Створення іграшки
+[INFO] 2022-10-27 22:06:21.457 [main] ToyService - Створення музики
+[INFO] 2022-10-27 22:06:21.460 [main] ToyService - Видалення за ціною
+[INFO] 2022-10-27 22:06:21.463 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-10-27 22:06:21.469 [main] ToyService - Створення іграшки
+[INFO] 2022-10-27 22:06:21.469 [main] ToyService - Створення машинки
+[ERROR] 2022-10-27 22:06:21.473 [main] ToyService - Неіснує такого обєкту
+[INFO] 2022-10-27 22:06:22.040 [main] ToyService - Створення іграшки
+[INFO] 2022-10-27 22:06:22.040 [main] ToyService - Створення кубиків
+[INFO] 2022-10-27 22:06:22.045 [main] ToyService - Редагування іграшки
+[INFO] 2022-10-27 22:06:22.047 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 14:24:51.998 [main] GameRoomDao - List<GameRoom> getAll()
+[ERROR] 2022-11-03 14:24:52.071 [main] GameRoomDao - Помилка при зчитуванні іграшки з БД. 
+org.postgresql.util.PSQLException: An error occurred while setting up the SSL connection.
+	at com.my.game_room.dao.GameRoomDao.getAll(GameRoomDao.java:87) [classes/:?]
+	at com.my.game_room.service.GameRoomService.viewRooms(GameRoomService.java:70) [classes/:?]
+	at com.my.game_room.command.room.DisplayRoomsCommand.execute(DisplayRoomsCommand.java:16) [classes/:?]
+	at com.my.game_room.util.Menu.renderGameRoomMenu(Menu.java:88) [classes/:?]
+	at com.my.game_room.command.room.OpenGameRoomMenuCommand.execute(OpenGameRoomMenuCommand.java:9) [classes/:?]
+	at com.my.game_room.util.Menu.renderMenu(Menu.java:73) [classes/:?]
+	at com.my.game_room.util.Menu.launch(Menu.java:28) [classes/:?]
+	at com.my.game_room.GameRoomApplication.main(GameRoomApplication.java:7) [classes/:?]
+[INFO] 2022-11-03 14:26:01.893 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-03 14:26:01.904 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-03 14:26:30.663 [main] GameRoomDao - boolean save(GameRoom GameRoom{
+id='0', name='nulp', description='it', totalPrice='10000.0', size='HUGE', 
+ages: 'TEEN ADULT ',
+toys: 
+})
+[ERROR] 2022-11-03 14:26:30.688 [main] GameRoomDao - Помилка при зчитуванні іграшки з БД. 
+org.postgresql.util.PSQLException: An error occurred while setting up the SSL connection.
+	at com.my.game_room.dao.GameRoomDao.save(GameRoomDao.java:119) [classes/:?]
+	at com.my.game_room.dao.GameRoomDao.save(GameRoomDao.java:19) [classes/:?]
+	at com.my.game_room.service.GameRoomService.create(GameRoomService.java:85) [classes/:?]
+	at com.my.game_room.command.room.CreateRoomCommand.execute(CreateRoomCommand.java:15) [classes/:?]
+	at com.my.game_room.util.Menu.renderGameRoomMenu(Menu.java:88) [classes/:?]
+	at com.my.game_room.command.room.OpenGameRoomMenuCommand.execute(OpenGameRoomMenuCommand.java:9) [classes/:?]
+	at com.my.game_room.util.Menu.renderMenu(Menu.java:73) [classes/:?]
+	at com.my.game_room.util.Menu.launch(Menu.java:28) [classes/:?]
+	at com.my.game_room.GameRoomApplication.main(GameRoomApplication.java:7) [classes/:?]
+[INFO] 2022-11-03 14:26:31.370 [main] GameRoomDao - Кімнату збережено
+[INFO] 2022-11-03 14:26:40.834 [main] DatabaseManager - Закриття конекту з БД
+[INFO] 2022-11-03 14:32:55.168 [main] GameRoomDao - List<GameRoom> getAll()
+[INFO] 2022-11-03 14:32:55.330 [main] DatabaseManager - Відкрито конект в БД
+[INFO] 2022-11-03 14:32:55.349 [main] ToyDao - Optional<AbstractToy> getById(long 2)
+[INFO] 2022-11-03 14:32:55.353 [main] ToyDao - Optional<AbstractToy> getById(long 1)
+[INFO] 2022-11-03 14:32:55.357 [main] ToyDao - Optional<AbstractToy> getById(long 4)
+[INFO] 2022-11-03 14:33:04.089 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-03 14:33:04.090 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-03 14:33:25.036 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-03 14:33:25.036 [main] ToyDao - List<AbstractToy> getAll()
+[INFO] 2022-11-03 14:33:32.509 [main] FilterService - Фільтруємо за ціною нижче ніж = 10000.0
+[INFO] 2022-11-03 14:33:42.759 [main] ToyDao - Optional<AbstractToy> getById(long 1)
+[INFO] 2022-11-03 14:33:45.819 [main] GameRoomDao - boolean save(GameRoom GameRoom{
+id='0', name='nulp1', description='1', totalPrice='200.0', size='HUGE', 
+ages: 'TEEN ADULT ',
+toys: 
+Toy {Type='CAR', id='1', name='машинка2.0', description='найкраща тачка', price='1000.0', size='HUGE', age='ADULT', speed='60.0', material='залізо', color='ЖОВТИЙ!'}
+})
+[WARN] 2022-11-03 14:33:45.819 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 14:33:45.819 [main] GameRoomDao - Невалідна кімната
+[INFO] 2022-11-03 14:33:51.925 [main] DatabaseManager - Закриття конекту з БД
+[INFO] 2022-11-03 14:38:30.587 [main] GameRoomDao - List<GameRoom> getAll()
+[INFO] 2022-11-03 14:38:30.746 [main] DatabaseManager - Відкрито конект в БД
+[INFO] 2022-11-03 14:38:30.763 [main] ToyDao - Optional<AbstractToy> getById(long 2)
+[INFO] 2022-11-03 14:38:30.768 [main] ToyDao - Optional<AbstractToy> getById(long 1)
+[INFO] 2022-11-03 14:38:30.776 [main] ToyDao - Optional<AbstractToy> getById(long 4)
+[INFO] 2022-11-03 14:39:20.257 [main] GameRoomDao - List<GameRoom> getAll()
+[ERROR] 2022-11-03 14:39:20.286 [main] GameRoomDao - Помилка при зчитуванні іграшки з БД. 
+org.postgresql.util.PSQLException: Unable to parse URL jdbc:postgresql://localhost:543288/postgres
+	at com.my.game_room.dao.GameRoomDao.getAll(GameRoomDao.java:87) [classes/:?]
+	at com.my.game_room.service.GameRoomService.viewRooms(GameRoomService.java:70) [classes/:?]
+	at com.my.game_room.command.room.DisplayRoomsCommand.execute(DisplayRoomsCommand.java:16) [classes/:?]
+	at com.my.game_room.util.Menu.renderGameRoomMenu(Menu.java:88) [classes/:?]
+	at com.my.game_room.command.room.OpenGameRoomMenuCommand.execute(OpenGameRoomMenuCommand.java:9) [classes/:?]
+	at com.my.game_room.util.Menu.renderMenu(Menu.java:73) [classes/:?]
+	at com.my.game_room.util.Menu.launch(Menu.java:28) [classes/:?]
+	at com.my.game_room.GameRoomApplication.main(GameRoomApplication.java:7) [classes/:?]
+[INFO] 2022-11-03 14:39:39.528 [main] DatabaseManager - Закриття конекту з БД
+[INFO] 2022-11-03 16:25:38.215 [main] GameRoomDao - List<GameRoom> getAll()
+[INFO] 2022-11-03 16:25:38.391 [main] DatabaseManager - Відкрито конект в БД
+[INFO] 2022-11-03 16:25:38.418 [main] ToyDao - Optional<AbstractToy> getById(long 2)
+[INFO] 2022-11-03 16:25:38.424 [main] ToyDao - Optional<AbstractToy> getById(long 1)
+[INFO] 2022-11-03 16:25:38.432 [main] ToyDao - Optional<AbstractToy> getById(long 4)
+[INFO] 2022-11-03 16:25:46.824 [main] DatabaseManager - Закриття конекту з БД
+[INFO] 2022-11-03 16:26:34.769 [main] GameRoomDao - List<GameRoom> getAll()
+[ERROR] 2022-11-03 16:26:34.808 [main] DatabaseManager - Не вдалось відкрити конект до бд
+[INFO] 2022-11-03 16:56:41.863 [main] GameRoomDao - List<GameRoom> getAll()
+[INFO] 2022-11-03 16:56:42.001 [main] DatabaseManager - Відкрито конект в БД
+[INFO] 2022-11-03 16:56:42.014 [main] ToyDao - Optional<AbstractToy> getById(long 2)
+[INFO] 2022-11-03 16:56:42.017 [main] ToyDao - Optional<AbstractToy> getById(long 1)
+[INFO] 2022-11-03 16:56:42.022 [main] ToyDao - Optional<AbstractToy> getById(long 4)
+[WARN] 2022-11-03 18:41:05.890 [main] GameRoom - Порожнє імя!
+[WARN] 2022-11-03 18:41:05.895 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-11-03 18:41:05.897 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 18:41:05.898 [main] GameRoom - Неправильний вік!
+[INFO] 2022-11-03 18:41:37.482 [main] FilterService - Фільтруємо за ціною вище ніж = 100.0
+[INFO] 2022-11-03 18:41:37.492 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 18:41:37.494 [main] FilterService - Фільтруємо за доступним віком = [ADULT]
+[INFO] 2022-11-03 18:41:37.497 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-03 18:41:37.502 [main] FilterService - Фільтруємо за розміром = SMALL
+[INFO] 2022-11-03 18:41:37.505 [main] FilterService - Фільтруємо за доступним віком = [TEEN]
+[INFO] 2022-11-03 18:41:37.508 [main] FilterService - Фільтруємо за ціною нижче ніж = 200.0
+[INFO] 2022-11-03 18:41:37.511 [main] FilterService - Фільтруємо за розміром = MEDIUM
+[INFO] 2022-11-03 18:41:37.513 [main] FilterService - Фільтруємо за типом = DOLL
+[INFO] 2022-11-03 18:41:37.516 [main] FilterService - Фільтруємо за розміром = BIG
+[INFO] 2022-11-03 18:41:37.519 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 18:42:27.649 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-03 18:42:27.650 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-03 18:42:27.674 [main] GameRoomService - Видалення кімнати за айді 1
+[INFO] 2022-11-03 18:42:27.677 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 18:42:27.682 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 18:42:27.682 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 18:42:28.547 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 18:42:28.548 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 18:42:28.554 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 18:42:28.555 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 18:42:29.286 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 18:42:29.293 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 18:42:29.294 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 18:42:29.922 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 18:42:29.922 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 18:42:30.712 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='TEXT', description='TEXT', totalPrice='230.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 18:42:30.727 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 18:42:30.728 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='sameName', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[WARN] 2022-11-03 18:42:30.728 [main] GameRoomService - Неправильне імя
+[INFO] 2022-11-03 18:42:30.734 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 18:42:30.734 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 18:42:31.327 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 18:42:31.333 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 18:42:31.333 [main] GameRoomService - Перегляд даних за айді 1
+[ERROR] 2022-11-03 18:42:31.951 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 18:43:02.791 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 18:43:02.816 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:43:02.819 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:43:02.827 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 18:43:02.831 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:43:02.832 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 18:43:02.836 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:43:02.838 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:43:02.844 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:43:02.844 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:43:02.849 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 18:43:02.854 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:43:02.854 [main] ToyService - Створення музики
+[INFO] 2022-11-03 18:43:02.857 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 18:43:02.860 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 18:43:02.863 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:43:02.863 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 18:43:02.866 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 18:43:03.606 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:43:03.607 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 18:43:03.614 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:43:03.617 [main] ToyService - Нова назва іграшки
+[WARN] 2022-11-03 18:43:14.118 [main] GameRoom - Порожнє імя!
+[WARN] 2022-11-03 18:43:14.122 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-11-03 18:43:14.125 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 18:43:14.126 [main] GameRoom - Неправильний вік!
+[INFO] 2022-11-03 18:43:24.612 [main] FilterService - Фільтруємо за ціною вище ніж = 100.0
+[INFO] 2022-11-03 18:43:24.622 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 18:43:24.624 [main] FilterService - Фільтруємо за доступним віком = [ADULT]
+[INFO] 2022-11-03 18:43:24.627 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-03 18:43:24.633 [main] FilterService - Фільтруємо за розміром = SMALL
+[INFO] 2022-11-03 18:43:24.634 [main] FilterService - Фільтруємо за доступним віком = [TEEN]
+[INFO] 2022-11-03 18:43:24.638 [main] FilterService - Фільтруємо за ціною нижче ніж = 200.0
+[INFO] 2022-11-03 18:43:24.641 [main] FilterService - Фільтруємо за розміром = MEDIUM
+[INFO] 2022-11-03 18:43:24.643 [main] FilterService - Фільтруємо за типом = DOLL
+[INFO] 2022-11-03 18:43:24.646 [main] FilterService - Фільтруємо за розміром = BIG
+[INFO] 2022-11-03 18:43:24.648 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 18:47:03.232 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 18:47:03.256 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:47:03.260 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:47:03.268 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 18:47:03.272 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:47:03.273 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 18:47:03.277 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:47:03.278 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:47:03.283 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:47:03.283 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:47:03.288 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 18:47:03.293 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:47:03.293 [main] ToyService - Створення музики
+[INFO] 2022-11-03 18:47:03.296 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 18:47:03.298 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 18:47:03.302 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:47:03.302 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 18:47:03.305 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 18:47:04.092 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:47:04.092 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 18:47:04.099 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:47:04.103 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:48:26.859 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 18:48:26.882 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:48:26.888 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:48:26.895 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 18:48:26.900 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:48:26.900 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 18:48:26.904 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:48:26.905 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:48:26.910 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:48:26.910 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:48:26.915 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 18:48:26.918 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:48:26.918 [main] ToyService - Створення музики
+[INFO] 2022-11-03 18:48:26.921 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 18:48:26.923 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 18:48:26.927 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:48:26.927 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 18:48:26.931 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 18:48:27.687 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:48:27.688 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 18:48:27.694 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:48:27.698 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:50:46.595 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 18:50:46.621 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:50:46.625 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:50:46.633 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 18:50:46.638 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:50:46.638 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 18:50:46.644 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:50:46.645 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:50:46.649 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:50:46.650 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:50:46.653 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 18:50:46.656 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 18:50:46.661 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:50:46.661 [main] ToyService - Створення музики
+[INFO] 2022-11-03 18:50:46.664 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 18:50:46.667 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:50:46.668 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 18:50:46.671 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 18:50:47.445 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:50:47.445 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 18:50:47.453 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:50:47.456 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:59:25.413 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 18:59:25.438 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:59:25.442 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:59:25.449 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 18:59:25.453 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:59:25.454 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 18:59:25.458 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:59:25.459 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:59:25.465 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:59:25.465 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 18:59:25.469 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 18:59:25.473 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 18:59:25.476 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:59:25.476 [main] ToyService - Створення музики
+[INFO] 2022-11-03 18:59:25.480 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 18:59:25.483 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:59:25.483 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 18:59:25.487 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 18:59:26.308 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 18:59:26.308 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 18:59:26.316 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 18:59:26.319 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:00:04.636 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:00:04.642 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:00:04.653 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 19:00:04.659 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:00:04.659 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 19:00:04.664 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:00:04.665 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:00:04.671 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:00:04.671 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:00:04.676 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:00:04.679 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:00:04.682 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:00:04.686 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:00:04.686 [main] ToyService - Створення музики
+[INFO] 2022-11-03 19:00:04.689 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:00:04.693 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:00:04.693 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 19:00:04.696 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 19:00:05.462 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:00:05.462 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 19:00:05.470 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:00:05.473 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:08:38.405 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:08:38.426 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:08:38.430 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:08:38.436 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 19:08:38.440 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:08:38.441 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 19:08:38.444 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:08:38.445 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:08:38.449 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:08:38.450 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:08:38.453 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:08:38.457 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:08:38.457 [main] ToyService - Створення музики
+[INFO] 2022-11-03 19:08:38.460 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:08:38.463 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:08:38.467 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:08:38.467 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 19:08:38.471 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 19:08:39.200 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:08:39.200 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 19:08:39.208 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:08:39.210 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:14.956 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:09:14.976 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:14.980 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:14.987 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 19:09:14.992 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:14.992 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 19:09:14.995 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:14.996 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:15.001 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:15.001 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:15.005 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:09:15.009 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:15.009 [main] ToyService - Створення музики
+[INFO] 2022-11-03 19:09:15.011 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:09:15.014 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:09:15.018 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:15.018 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 19:09:15.021 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 19:09:15.794 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:15.795 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 19:09:15.800 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:15.803 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:25.248 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:09:25.268 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:25.274 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:25.281 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 19:09:25.285 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:25.285 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 19:09:25.289 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:25.291 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:25.296 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:25.299 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:25.307 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:09:25.314 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:25.314 [main] ToyService - Створення музики
+[INFO] 2022-11-03 19:09:25.317 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:09:25.322 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:09:25.325 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:25.327 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 19:09:25.333 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 19:09:26.268 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:26.268 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 19:09:26.275 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:26.277 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:45.870 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:09:45.890 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:45.895 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:45.903 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 19:09:45.907 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:45.907 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 19:09:45.911 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:45.912 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:45.917 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:45.917 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:09:45.920 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:09:45.925 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:45.925 [main] ToyService - Створення музики
+[INFO] 2022-11-03 19:09:45.928 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:09:45.931 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:09:45.934 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:45.934 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 19:09:45.937 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 19:09:46.686 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:09:46.686 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 19:09:46.692 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:09:46.694 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:05.427 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:10:05.446 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:05.450 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:05.457 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 19:10:05.461 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:05.462 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 19:10:05.466 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:05.466 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:05.471 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:05.471 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:05.475 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:10:05.479 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:05.479 [main] ToyService - Створення музики
+[INFO] 2022-11-03 19:10:05.482 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:10:05.485 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:10:05.488 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:05.488 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 19:10:05.491 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 19:10:06.272 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:06.272 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 19:10:06.279 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:06.282 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:26.979 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:10:26.999 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:27.003 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:27.010 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 19:10:27.014 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:27.014 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 19:10:27.018 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:27.019 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:27.023 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:27.023 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:27.026 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:10:27.030 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:27.030 [main] ToyService - Створення музики
+[INFO] 2022-11-03 19:10:27.033 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:10:27.036 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:10:27.039 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:27.040 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 19:10:27.043 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 19:10:27.784 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:27.784 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 19:10:27.791 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:27.794 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:35.461 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:10:35.481 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:35.484 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:35.491 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 19:10:35.495 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:35.495 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 19:10:35.500 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:35.501 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:35.505 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:35.506 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:10:35.510 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:10:35.513 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:35.513 [main] ToyService - Створення музики
+[INFO] 2022-11-03 19:10:35.516 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:10:35.519 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:10:35.523 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:35.523 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 19:10:35.526 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 19:10:36.296 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:10:36.297 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 19:10:36.300 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:10:36.302 [main] ToyService - Нова назва іграшки
+[WARN] 2022-11-03 19:10:54.634 [main] GameRoom - Порожнє імя!
+[WARN] 2022-11-03 19:10:54.638 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-11-03 19:10:54.640 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 19:10:54.641 [main] GameRoom - Неправильний вік!
+[WARN] 2022-11-03 19:15:43.928 [main] GameRoom - Порожнє імя!
+[WARN] 2022-11-03 19:15:43.931 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-11-03 19:15:43.933 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 19:15:43.934 [main] GameRoom - Неправильний вік!
+[INFO] 2022-11-03 19:15:44.503 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-03 19:15:44.512 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-03 19:15:44.534 [main] GameRoomService - Видалення кімнати за айді 1
+[INFO] 2022-11-03 19:15:44.551 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 19:15:44.571 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 19:15:44.571 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 19:15:45.326 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 19:15:45.326 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 19:15:45.333 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 19:15:45.333 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 19:15:45.977 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 19:15:45.982 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 19:15:45.982 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 19:15:46.729 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 19:15:46.729 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 19:15:47.404 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='TEXT', description='TEXT', totalPrice='230.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 19:15:47.417 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 19:15:47.418 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='sameName', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[WARN] 2022-11-03 19:15:47.418 [main] GameRoomService - Неправильне імя
+[INFO] 2022-11-03 19:15:47.423 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 19:15:47.423 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 19:15:48.031 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 19:15:48.040 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 19:15:48.040 [main] GameRoomService - Перегляд даних за айді 1
+[ERROR] 2022-11-03 19:15:48.685 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 19:15:49.331 [main] FilterService - Фільтруємо за ціною вище ніж = 100.0
+[INFO] 2022-11-03 19:15:49.336 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 19:15:49.341 [main] FilterService - Фільтруємо за доступним віком = [ADULT]
+[INFO] 2022-11-03 19:15:49.343 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-03 19:15:49.349 [main] FilterService - Фільтруємо за розміром = SMALL
+[INFO] 2022-11-03 19:15:49.351 [main] FilterService - Фільтруємо за доступним віком = [TEEN]
+[INFO] 2022-11-03 19:15:49.354 [main] FilterService - Фільтруємо за ціною нижче ніж = 200.0
+[INFO] 2022-11-03 19:15:49.356 [main] FilterService - Фільтруємо за розміром = MEDIUM
+[INFO] 2022-11-03 19:15:49.358 [main] FilterService - Фільтруємо за типом = DOLL
+[INFO] 2022-11-03 19:15:49.361 [main] FilterService - Фільтруємо за розміром = BIG
+[INFO] 2022-11-03 19:15:49.363 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 19:15:49.371 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:15:49.375 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:15:49.378 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:15:49.383 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 19:15:49.387 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:15:49.387 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 19:15:49.391 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:15:49.392 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:15:49.396 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:15:49.396 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:15:49.399 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:15:49.402 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:15:49.402 [main] ToyService - Створення музики
+[INFO] 2022-11-03 19:15:49.405 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:15:49.406 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:15:49.408 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:15:49.409 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 19:15:49.410 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 19:15:50.075 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:15:50.076 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 19:15:50.083 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:15:50.085 [main] ToyService - Нова назва іграшки
+[WARN] 2022-11-03 19:16:03.265 [main] GameRoom - Порожнє імя!
+[WARN] 2022-11-03 19:16:03.269 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-11-03 19:16:03.271 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 19:16:03.271 [main] GameRoom - Неправильний вік!
+[INFO] 2022-11-03 19:16:03.831 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-03 19:16:03.831 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-03 19:16:03.849 [main] GameRoomService - Видалення кімнати за айді 1
+[INFO] 2022-11-03 19:16:03.851 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 19:16:03.853 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 19:16:03.854 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 19:16:04.657 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 19:16:04.657 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 19:16:04.664 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 19:16:04.665 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 19:16:05.280 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 19:16:05.286 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 19:16:05.287 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 19:16:05.876 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 19:16:05.876 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 19:16:06.638 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='TEXT', description='TEXT', totalPrice='230.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 19:16:06.652 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 19:16:06.653 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='sameName', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[WARN] 2022-11-03 19:16:06.653 [main] GameRoomService - Неправильне імя
+[INFO] 2022-11-03 19:16:06.658 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 19:16:06.658 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 19:16:07.269 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 19:16:07.277 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 19:16:07.278 [main] GameRoomService - Перегляд даних за айді 1
+[ERROR] 2022-11-03 19:16:07.893 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 19:16:08.514 [main] FilterService - Фільтруємо за ціною вище ніж = 100.0
+[INFO] 2022-11-03 19:16:08.519 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 19:16:08.522 [main] FilterService - Фільтруємо за доступним віком = [ADULT]
+[INFO] 2022-11-03 19:16:08.524 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-03 19:16:08.530 [main] FilterService - Фільтруємо за розміром = SMALL
+[INFO] 2022-11-03 19:16:08.532 [main] FilterService - Фільтруємо за доступним віком = [TEEN]
+[INFO] 2022-11-03 19:16:08.535 [main] FilterService - Фільтруємо за ціною нижче ніж = 200.0
+[INFO] 2022-11-03 19:16:08.538 [main] FilterService - Фільтруємо за розміром = MEDIUM
+[INFO] 2022-11-03 19:16:08.540 [main] FilterService - Фільтруємо за типом = DOLL
+[INFO] 2022-11-03 19:16:08.543 [main] FilterService - Фільтруємо за розміром = BIG
+[INFO] 2022-11-03 19:16:08.546 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 19:16:08.554 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:16:08.558 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:16:08.560 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:16:08.565 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 19:16:08.569 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:16:08.569 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 19:16:08.573 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:16:08.574 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:16:08.579 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:16:08.579 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 19:16:08.582 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:16:08.584 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:16:08.585 [main] ToyService - Створення музики
+[INFO] 2022-11-03 19:16:08.587 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 19:16:08.588 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 19:16:08.591 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:16:08.591 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 19:16:08.592 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 19:16:09.205 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 19:16:09.205 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 19:16:09.213 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 19:16:09.216 [main] ToyService - Нова назва іграшки
+[WARN] 2022-11-03 22:37:21.327 [main] GameRoom - Порожнє імя!
+[WARN] 2022-11-03 22:37:21.330 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-11-03 22:37:21.332 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 22:37:21.332 [main] GameRoom - Неправильний вік!
+[INFO] 2022-11-03 22:37:21.940 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-03 22:37:21.941 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-03 22:37:21.958 [main] GameRoomService - Видалення кімнати за айді 1
+[INFO] 2022-11-03 22:37:21.961 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 22:37:21.963 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 22:37:21.963 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 22:37:22.810 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 22:37:22.810 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 22:37:22.817 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 22:37:22.817 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 22:37:23.419 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 22:37:23.427 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 22:37:23.427 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 22:37:24.211 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 22:37:24.212 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 22:37:24.928 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='TEXT', description='TEXT', totalPrice='230.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 22:37:24.942 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 22:37:24.943 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='sameName', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[WARN] 2022-11-03 22:37:24.943 [main] GameRoomService - Неправильне імя
+[INFO] 2022-11-03 22:37:24.947 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 22:37:24.948 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 22:37:25.554 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 22:37:25.563 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 22:37:25.564 [main] GameRoomService - Перегляд даних за айді 1
+[ERROR] 2022-11-03 22:37:26.293 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 22:37:26.907 [main] FilterService - Фільтруємо за ціною вище ніж = 100.0
+[INFO] 2022-11-03 22:37:26.912 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 22:37:26.915 [main] FilterService - Фільтруємо за доступним віком = [ADULT]
+[INFO] 2022-11-03 22:37:26.918 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-03 22:37:26.924 [main] FilterService - Фільтруємо за розміром = SMALL
+[INFO] 2022-11-03 22:37:26.926 [main] FilterService - Фільтруємо за доступним віком = [TEEN]
+[INFO] 2022-11-03 22:37:26.929 [main] FilterService - Фільтруємо за ціною нижче ніж = 200.0
+[INFO] 2022-11-03 22:37:26.932 [main] FilterService - Фільтруємо за розміром = MEDIUM
+[INFO] 2022-11-03 22:37:26.934 [main] FilterService - Фільтруємо за типом = DOLL
+[INFO] 2022-11-03 22:37:26.937 [main] FilterService - Фільтруємо за розміром = BIG
+[INFO] 2022-11-03 22:37:26.939 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 22:37:26.950 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 22:37:26.953 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 22:37:26.957 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 22:37:26.960 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 22:37:26.964 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 22:37:26.964 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 22:37:26.967 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 22:37:26.968 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 22:37:26.971 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 22:37:26.972 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 22:37:26.975 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 22:37:26.978 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 22:37:26.978 [main] ToyService - Створення музики
+[INFO] 2022-11-03 22:37:26.980 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 22:37:26.982 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 22:37:26.984 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 22:37:26.984 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 22:37:26.986 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 22:37:27.605 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 22:37:27.606 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 22:37:27.614 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 22:37:27.618 [main] ToyService - Нова назва іграшки
+[WARN] 2022-11-03 23:22:39.524 [main] GameRoom - Порожнє імя!
+[WARN] 2022-11-03 23:22:39.529 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-11-03 23:22:39.531 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 23:22:39.532 [main] GameRoom - Неправильний вік!
+[INFO] 2022-11-03 23:22:40.116 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-03 23:22:40.116 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-03 23:22:40.138 [main] GameRoomService - Видалення кімнати за айді 1
+[INFO] 2022-11-03 23:22:40.140 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:22:40.144 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 23:22:40.145 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 23:22:40.975 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 23:22:40.975 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:22:40.982 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:22:40.982 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:22:41.578 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:22:41.587 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 23:22:41.588 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 23:22:42.175 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:22:42.175 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:22:43.210 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='TEXT', description='TEXT', totalPrice='230.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:22:43.222 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 23:22:43.223 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='sameName', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[WARN] 2022-11-03 23:22:43.223 [main] GameRoomService - Неправильне імя
+[INFO] 2022-11-03 23:22:43.228 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:22:43.228 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:22:43.831 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:22:43.840 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:22:43.840 [main] GameRoomService - Перегляд даних за айді 1
+[ERROR] 2022-11-03 23:22:44.519 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:22:45.118 [main] FilterService - Фільтруємо за доступним віком = [TEEN]
+[INFO] 2022-11-03 23:22:45.121 [main] FilterService - Фільтруємо за ціною вище ніж = 100.0
+[INFO] 2022-11-03 23:22:45.124 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 23:22:45.125 [main] FilterService - Фільтруємо за доступним віком = [ADULT]
+[INFO] 2022-11-03 23:22:45.129 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-03 23:22:45.134 [main] FilterService - Фільтруємо за розміром = SMALL
+[INFO] 2022-11-03 23:22:45.138 [main] FilterService - Фільтруємо за ціною нижче ніж = 200.0
+[INFO] 2022-11-03 23:22:45.140 [main] FilterService - Фільтруємо за розміром = MEDIUM
+[INFO] 2022-11-03 23:22:45.141 [main] FilterService - Фільтруємо за типом = DOLL
+[INFO] 2022-11-03 23:22:45.145 [main] FilterService - Фільтруємо за розміром = BIG
+[INFO] 2022-11-03 23:22:45.147 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 23:22:45.157 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 23:22:45.160 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:22:45.162 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 23:22:45.165 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 23:22:45.169 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:22:45.169 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 23:22:45.172 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:22:45.173 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 23:22:45.176 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:22:45.177 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 23:22:45.181 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 23:22:45.184 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:22:45.185 [main] ToyService - Створення музики
+[INFO] 2022-11-03 23:22:45.188 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 23:22:45.190 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 23:22:45.192 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:22:45.192 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 23:22:45.194 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 23:22:45.818 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:22:45.819 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 23:22:45.823 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:22:45.826 [main] ToyService - Нова назва іграшки
+[WARN] 2022-11-03 23:25:36.650 [main] GameRoom - Порожнє імя!
+[WARN] 2022-11-03 23:25:36.653 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-11-03 23:25:36.656 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 23:25:36.657 [main] GameRoom - Неправильний вік!
+[INFO] 2022-11-03 23:25:37.207 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-03 23:25:37.207 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-03 23:25:37.225 [main] GameRoomService - Видалення кімнати за айді 1
+[INFO] 2022-11-03 23:25:37.227 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:25:37.230 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 23:25:37.230 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 23:25:37.970 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 23:25:37.970 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:25:37.976 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:25:37.976 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:25:38.579 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:25:38.586 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 23:25:38.586 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 23:25:39.259 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:25:39.259 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:25:39.923 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='TEXT', description='TEXT', totalPrice='230.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:25:39.937 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 23:25:39.937 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='sameName', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[WARN] 2022-11-03 23:25:39.938 [main] GameRoomService - Неправильне імя
+[INFO] 2022-11-03 23:25:39.942 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:25:39.943 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:25:40.550 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:25:40.557 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:25:40.558 [main] GameRoomService - Перегляд даних за айді 1
+[ERROR] 2022-11-03 23:25:41.176 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:25:41.942 [main] FilterService - Фільтруємо за доступним віком = [TEEN]
+[INFO] 2022-11-03 23:25:41.947 [main] FilterService - Фільтруємо за ціною вище ніж = 100.0
+[INFO] 2022-11-03 23:25:41.951 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 23:25:41.953 [main] FilterService - Фільтруємо за доступним віком = [ADULT]
+[INFO] 2022-11-03 23:25:41.956 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-03 23:25:41.962 [main] FilterService - Фільтруємо за розміром = SMALL
+[INFO] 2022-11-03 23:25:41.965 [main] FilterService - Фільтруємо за ціною нижче ніж = 200.0
+[INFO] 2022-11-03 23:25:41.968 [main] FilterService - Фільтруємо за розміром = MEDIUM
+[INFO] 2022-11-03 23:25:41.970 [main] FilterService - Фільтруємо за типом = DOLL
+[INFO] 2022-11-03 23:25:41.972 [main] FilterService - Фільтруємо за розміром = BIG
+[INFO] 2022-11-03 23:25:41.974 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 23:25:41.982 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 23:25:41.986 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:25:41.990 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 23:25:41.995 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 23:25:42.000 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:25:42.001 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 23:25:42.004 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:25:42.005 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 23:25:42.009 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:25:42.009 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 23:25:42.012 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 23:25:42.014 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:25:42.014 [main] ToyService - Створення музики
+[INFO] 2022-11-03 23:25:42.016 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 23:25:42.017 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 23:25:42.019 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:25:42.019 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 23:25:42.021 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 23:25:42.647 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:25:42.648 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 23:25:42.653 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:25:42.656 [main] ToyService - Нова назва іграшки
+[WARN] 2022-11-03 23:28:12.440 [main] GameRoom - Порожнє імя!
+[WARN] 2022-11-03 23:28:12.443 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-11-03 23:28:12.445 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 23:28:12.446 [main] GameRoom - Неправильний вік!
+[INFO] 2022-11-03 23:28:13.016 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-03 23:28:13.016 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-03 23:28:13.037 [main] GameRoomService - Видалення кімнати за айді 1
+[INFO] 2022-11-03 23:28:13.040 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:28:13.042 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 23:28:13.042 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 23:28:13.783 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 23:28:13.784 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:28:13.788 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:28:13.789 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:28:14.473 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:28:14.482 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 23:28:14.483 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 23:28:15.082 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:28:15.083 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:28:15.754 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='TEXT', description='TEXT', totalPrice='230.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:28:15.758 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 23:28:15.759 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='sameName', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[WARN] 2022-11-03 23:28:15.759 [main] GameRoomService - Неправильне імя
+[INFO] 2022-11-03 23:28:15.761 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:28:15.761 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:28:16.369 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:28:16.382 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:28:16.384 [main] GameRoomService - Перегляд даних за айді 1
+[ERROR] 2022-11-03 23:28:17.013 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:28:17.657 [main] FilterService - Фільтруємо за доступним віком = [TEEN]
+[INFO] 2022-11-03 23:28:17.664 [main] FilterService - Фільтруємо за ціною вище ніж = 100.0
+[INFO] 2022-11-03 23:28:17.670 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 23:28:17.673 [main] FilterService - Фільтруємо за доступним віком = [ADULT]
+[INFO] 2022-11-03 23:28:17.676 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-03 23:28:17.682 [main] FilterService - Фільтруємо за розміром = SMALL
+[INFO] 2022-11-03 23:28:17.685 [main] FilterService - Фільтруємо за ціною нижче ніж = 200.0
+[INFO] 2022-11-03 23:28:17.689 [main] FilterService - Фільтруємо за розміром = MEDIUM
+[INFO] 2022-11-03 23:28:17.692 [main] FilterService - Фільтруємо за типом = DOLL
+[INFO] 2022-11-03 23:28:17.694 [main] FilterService - Фільтруємо за розміром = BIG
+[INFO] 2022-11-03 23:28:17.696 [main] FilterService - Фільтруємо за розміром = HUGE
+[INFO] 2022-11-03 23:28:17.703 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 23:28:17.707 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:28:17.711 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 23:28:17.715 [main] ToyService - Видалення іграшки
+[INFO] 2022-11-03 23:28:17.718 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:28:17.718 [main] ToyService - Створення ляльки
+[INFO] 2022-11-03 23:28:17.723 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:28:17.723 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 23:28:17.726 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:28:17.727 [main] ToyService - Нова назва іграшки
+[INFO] 2022-11-03 23:28:17.729 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 23:28:17.731 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:28:17.732 [main] ToyService - Створення музики
+[INFO] 2022-11-03 23:28:17.734 [main] ToyService - Видалення за ціною
+[INFO] 2022-11-03 23:28:17.735 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 23:28:17.737 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:28:17.738 [main] ToyService - Створення машинки
+[ERROR] 2022-11-03 23:28:17.740 [main] ToyService - Не існує такого об'єкту
+[INFO] 2022-11-03 23:28:18.431 [main] ToyService - Створення іграшки
+[INFO] 2022-11-03 23:28:18.433 [main] ToyService - Створення кубиків
+[INFO] 2022-11-03 23:28:18.443 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-03 23:28:18.447 [main] ToyService - Нова назва іграшки
+[WARN] 2022-11-03 23:39:50.702 [main] GameRoom - Порожнє імя!
+[WARN] 2022-11-03 23:39:50.704 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-11-03 23:39:50.706 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 23:39:50.707 [main] GameRoom - Неправильний вік!
+[INFO] 2022-11-03 23:39:51.321 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-03 23:39:51.321 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-03 23:39:51.341 [main] GameRoomService - Видалення кімнати за айді 1
+[INFO] 2022-11-03 23:39:51.345 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:39:51.348 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 23:39:51.348 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 23:39:52.241 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 23:39:52.241 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:39:52.245 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:39:52.246 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:39:53.011 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:39:53.018 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 23:39:53.018 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 23:39:53.777 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:39:53.777 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:39:54.535 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='TEXT', description='TEXT', totalPrice='230.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:39:54.545 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 23:39:54.545 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='sameName', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[WARN] 2022-11-03 23:39:54.545 [main] GameRoomService - Неправильне імя
+[INFO] 2022-11-03 23:39:54.548 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:39:54.548 [main] GameRoomService - Перегляд даних за айді 1
+[WARN] 2022-11-03 23:39:59.713 [main] GameRoom - Порожнє імя!
+[WARN] 2022-11-03 23:39:59.716 [main] GameRoom - Неправильний розмір!
+[WARN] 2022-11-03 23:39:59.718 [main] GameRoom - Занадто велика сукупна вартість!
+[WARN] 2022-11-03 23:39:59.718 [main] GameRoom - Неправильний вік!
+[INFO] 2022-11-03 23:40:00.300 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-03 23:40:00.300 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-03 23:40:00.322 [main] GameRoomService - Видалення кімнати за айді 1
+[INFO] 2022-11-03 23:40:00.325 [main] GameRoomService - Очищення кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:40:00.329 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 23:40:00.329 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 23:40:01.084 [main] GameRoomService - Копіювання кімнати за айді 1
+[INFO] 2022-11-03 23:40:01.084 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:40:01.087 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-03 23:40:01.087 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-03 23:40:01.778 [main] GameRoomService - Зміна назви для кімнати GameRoom{
+id='1', name='', description='', totalPrice='0.0', size='BIG', 
+ages: 'ADULT TEEN ',
+toys: 
+Toy {Type='CAR', id='0', name='Text', description='Text', price='100.4', size='MEDIUM', age='TEEN', speed='100.4', material='Text', color='Text'}
+}
+[INFO] 2022-11-03 23:40:01.781 [main] GameRoomService - Копіювання кімнати за айді 1
+[ERROR] 2022-11-03 23:40:01.781 [main] GameRoomService - Кімнату не знайдено
+[INFO] 2022-11-03 23:40:19.166 [main] GameRoomDao - List<GameRoom> getAll()
+[ERROR] 2022-11-03 23:40:19.209 [main] GameRoomDao - Помилка при зчитуванні іграшки з БД. 
+org.postgresql.util.PSQLException: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at com.my.game_room.dao.GameRoomDao.getAll(GameRoomDao.java:87) [classes/:?]
+	at com.my.game_room.service.GameRoomService.viewRooms(GameRoomService.java:92) [classes/:?]
+	at com.my.game_room.command.room.DisplayRoomsCommand.execute(DisplayRoomsCommand.java:16) [classes/:?]
+	at com.my.game_room.util.Menu.renderGameRoomMenu(Menu.java:109) [classes/:?]
+	at com.my.game_room.command.room.OpenGameRoomMenuCommand.execute(OpenGameRoomMenuCommand.java:9) [classes/:?]
+	at com.my.game_room.util.Menu.renderMenu(Menu.java:91) [classes/:?]
+	at com.my.game_room.util.Menu.launch(Menu.java:39) [classes/:?]
+	at com.my.game_room.GameRoomApplication.main(GameRoomApplication.java:11) [classes/:?]
+Caused by: java.net.ConnectException: Connection refused
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:672) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:535) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.net.Socket.connect(Socket.java:666) ~[?:?]
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:241) ~[postgresql-42.5.0.jar:42.5.0]
+	at org.postgresql.core.PGStream.<init>(PGStream.java:98) ~[postgresql-42.5.0.jar:42.5.0]
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:109) ~[postgresql-42.5.0.jar:42.5.0]
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:235) ~[postgresql-42.5.0.jar:42.5.0]
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49) ~[postgresql-42.5.0.jar:42.5.0]
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:247) ~[postgresql-42.5.0.jar:42.5.0]
+	at org.postgresql.Driver.makeConnection(Driver.java:434) ~[postgresql-42.5.0.jar:42.5.0]
+	at org.postgresql.Driver.connect(Driver.java:291) ~[postgresql-42.5.0.jar:42.5.0]
+	at java.sql.DriverManager.getConnection(DriverManager.java:683) ~[java.sql:?]
+	at java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.my.game_room.util.DatabaseManager.getConnection(DatabaseManager.java:20) ~[classes/:?]
+	at com.my.game_room.dao.GameRoomDao.getAll(GameRoomDao.java:80) ~[classes/:?]
+	... 7 more
+[INFO] 2022-11-03 23:41:47.158 [main] GameRoomDao - List<GameRoom> getAll()
+[INFO] 2022-11-03 23:41:47.335 [main] DatabaseManager - Відкрито конект в БД
+[INFO] 2022-11-03 23:41:47.359 [main] ToyDao - Optional<AbstractToy> getById(long 2)
+[INFO] 2022-11-03 23:41:47.363 [main] ToyDao - Optional<AbstractToy> getById(long 1)
+[INFO] 2022-11-03 23:41:47.366 [main] ToyDao - Optional<AbstractToy> getById(long 4)
+[INFO] 2022-11-03 23:41:59.182 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-03 23:41:59.183 [main] ToyDao - List<AbstractToy> getAll()
+[INFO] 2022-11-03 23:42:56.472 [main] DatabaseManager - Закриття конекту з БД
+[INFO] 2022-11-04 10:57:12.862 [main] GameRoomDao - List<GameRoom> getAll()
+[INFO] 2022-11-04 10:57:13.021 [main] DatabaseManager - Відкрито конект в БД
+[INFO] 2022-11-04 10:57:13.035 [main] ToyDao - Optional<AbstractToy> getById(long 2)
+[INFO] 2022-11-04 10:57:13.039 [main] ToyDao - Optional<AbstractToy> getById(long 1)
+[INFO] 2022-11-04 10:57:13.043 [main] ToyDao - Optional<AbstractToy> getById(long 4)
+[INFO] 2022-11-04 10:57:18.131 [main] GameRoomService - Редагування кімнати з айді 1
+[ERROR] 2022-11-04 10:57:18.131 [main] GameRoomService - Перегляд даних за айді 1
+[INFO] 2022-11-04 10:57:18.898 [main] GameRoomDao - Optional<GameRoom> getById(long 1)
+[INFO] 2022-11-04 10:57:18.907 [main] ToyDao - Optional<AbstractToy> getById(long 2)
+[INFO] 2022-11-04 10:57:18.913 [main] ToyDao - Optional<AbstractToy> getById(long 1)
+[INFO] 2022-11-04 10:57:37.895 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-04 10:57:37.896 [main] ToyDao - List<AbstractToy> getAll()
+[INFO] 2022-11-04 10:58:08.590 [main] FilterService - Фільтруємо за ціною нижче ніж = 10000.0
+[INFO] 2022-11-04 10:58:22.258 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-04 10:58:22.260 [main] ToyDao - List<AbstractToy> getAll()
+[INFO] 2022-11-04 10:58:22.394 [main] DatabaseManager - Відкрито конект в БД
+[INFO] 2022-11-04 10:58:33.964 [main] ToyService - Редагування іграшки
+[INFO] 2022-11-04 10:58:38.190 [main] ToyDao - Optional<AbstractToy> getById(long 0)
+[INFO] 2022-11-04 10:58:48.716 [main] ToyService - Створення іграшки
+[INFO] 2022-11-04 10:58:50.048 [main] ToyService - Створення машинки
+[INFO] 2022-11-04 10:59:48.622 [main] ToyDao - boolean save(AbstractToy Toy {Type='CAR', id='0', name='carr', description='speed 300', price='200.0', size='SMALL', age='BABY', speed='2.0', material='пластик', color='зелений'})
+[INFO] 2022-11-04 10:59:48.757 [main] DatabaseManager - Відкрито конект в БД
+[INFO] 2022-11-04 10:59:48.782 [main] ToyDao - Іграшку збережено
+[INFO] 2022-11-04 10:59:50.752 [main] ToyService - Створення іграшки
+[INFO] 2022-11-04 10:59:52.057 [main] ToyService - Створення машинки
+[INFO] 2022-11-04 11:00:40.366 [main] ToyDao - boolean save(AbstractToy Toy {Type='CAR', id='0', name='carry', description='остання колекція', price='400.0', size='MEDIUM', age='CHILD', speed='400.0', material='пластик', color='червоний'})
+[INFO] 2022-11-04 11:00:40.402 [main] ToyDao - Іграшку збережено
+[INFO] 2022-11-04 11:00:43.014 [main] ToyService - Виведення списку іграшок
+[INFO] 2022-11-04 11:00:43.015 [main] ToyDao - List<AbstractToy> getAll()
+[INFO] 2022-11-04 11:02:01.162 [main] GameRoomService - Створення кімнати
+[INFO] 2022-11-04 11:02:01.168 [main] GameRoomService - Загальні дані
+[INFO] 2022-11-04 11:02:42.590 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-04 11:02:42.592 [main] ToyDao - List<AbstractToy> getAll()
+[INFO] 2022-11-04 11:02:53.095 [main] FilterService - Фільтруємо за ціною нижче ніж = 100000.0
+[INFO] 2022-11-04 11:03:25.892 [main] ToyDao - Optional<AbstractToy> getById(long 1)
+[INFO] 2022-11-04 11:03:29.409 [main] FilterService - Фільтруємо за типом = CAR
+[INFO] 2022-11-04 11:03:29.410 [main] ToyDao - List<AbstractToy> getAll()
+[INFO] 2022-11-04 11:03:37.210 [main] FilterService - Фільтруємо за розміром = MEDIUM
+[INFO] 2022-11-04 11:03:40.894 [main] ToyDao - Optional<AbstractToy> getById(long 6)
+[INFO] 2022-11-04 11:03:43.154 [main] GameRoomDao - boolean save(GameRoom GameRoom{
+id='0', name='сar room', description='для любителів машинок', totalPrice='1000000.0', size='HUGE', 
+ages: 'BABY TODDLER CHILD TEEN ADULT ',
+toys: 
+Toy {Type='CAR', id='1', name='машинка2.0', description='найкраща тачка', price='1000.0', size='HUGE', age='ADULT', speed='60.0', material='залізо', color='ЖОВТИЙ!'}
+Toy {Type='CAR', id='6', name='carry', description='остання колекція', price='400.0', size='MEDIUM', age='CHILD', speed='400.0', material='пластик', color='червоний'}
+})
+[INFO] 2022-11-04 11:03:43.185 [main] GameRoomDao - Кімнату збережено
+[INFO] 2022-11-04 11:03:45.635 [main] DatabaseManager - Закриття конекту з БД
